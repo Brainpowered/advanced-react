@@ -16,3 +16,6 @@ yarn webpack
 
 # view in browser
 localhost:8080
+
+# run tests (Jest)
+yarn test
